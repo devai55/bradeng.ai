@@ -1,10 +1,6 @@
-## BradCraft, by Srcbook
+## BradCraft, by med dev
 
-This app was created using https://srcbook.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+This app was created by med dev 
 
-To run the devserver:
-```
-npm install
-npm run dev
-```
+
+
